@@ -1,0 +1,137 @@
+body {
+    margin: 0%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    margin-top: 0px;
+    color: #66bfbf;
+    font-family: 'Original Surfer', cursive;
+    font-size: 350%;
+    line-height: 2;
+    margin-top: 50px auto 0 auto;
+    
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #66bfbf;
+    font-weight: normal;
+}
+h3, a {
+    color: #11999e;
+    margin: 50px auto 50px auto;
+}
+
+img {
+    height: 200px;
+}
+
+.mountains {
+    width: 800px;
+    height: 400px;
+
+}
+
+.topcontainer {
+    background-color: #d7fdf6;
+    position: relative;
+    padding-top: 200px;
+    margin-bottom: 30px;
+}
+
+
+.bottomcontainer {
+    background-color: #66bfbf;
+    position: relative;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.footer-link {
+    color: #11999e;
+    justify-content: space-between;
+}
+.bottomdagi {
+    color: #eaf6f6;
+    margin-top: 45px;
+   
+    
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 35px;
+
+}
+
+.bottom_cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 250px;
+}
+
+.mypic {
+    height: 210px;
+    width: 200px;
+    border-radius: 50%;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2; /* qatorlarni orasidagi masofa*/
+}
+    
+.code{
+    float: left;
+    margin-right: 30px;
+    
+}
+.english {
+    float: right;
+    margin-left: 30px;
+}
+/* skills dagi  description textlar
+.description-code {
+    clear: left;
+}
+.description-english {
+    clear: right;
+}
+bu ikkitasi textni rasmdan pastga tushirib qoyadi, prevents from wrapping around the pic*/
+
+.about-me {
+    color: #40514e;
+    text-align: center;
+}
+hr {
+    border-style: dotted none none;
+    border-width: 5px;
+    height: 0px;
+    color: #ced6d6;
+    width: 5%;
+    margin: 100px auto 100px auto;
+}
+.contact-me {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    padding-bottom: 100px;
+}
+
+.bt {
+    color: white;
+    background-color:#66bfbf;
+    border-radius: 12px;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.bt:hover{
+    background-color: teal;
+}
